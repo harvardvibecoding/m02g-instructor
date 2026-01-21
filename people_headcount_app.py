@@ -1,5 +1,5 @@
 ### Headcount Simulator App
-### m02g/people_headcount_app.py
+### m02g-instructor/people_headcount_app.py
 ###
 ### Author: Sharon + GitHub Copilot
 ### Date: Jan 20, 2026
